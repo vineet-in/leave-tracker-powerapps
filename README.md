@@ -1,5 +1,5 @@
-### 1. **Home Screen (![Home Screen](https://github.com/user-attachments/assets/1ca7f5c1-5941-41d4-8e4f-26a07397f170)
-)**
+### 1. Home Screen (![Home Screen](https://github.com/user-attachments/assets/1ca7f5c1-5941-41d4-8e4f-26a07397f170)
+
 
 * **Purpose**: Central dashboard for the app.
 * **Elements**:
@@ -10,8 +10,7 @@
 
 ---
 
-### 2. **Request Screen (![Req Screen](https://github.com/user-attachments/assets/9255b135-5fe0-44f2-82fd-2ae50a12381c)
-)**
+### 2. Request Screen (![Req Screen](https://github.com/user-attachments/assets/9255b135-5fe0-44f2-82fd-2ae50a12381c)
 
 * **Purpose**: Leave application form.
 * **Elements**:
@@ -24,8 +23,7 @@
 
   
 
-### 3. **Leave Summary (![Leave Summary](https://github.com/user-attachments/assets/c798ccc5-7814-4a0e-ae09-4012ebde0a3a)
-)**
+### 3. Leave Summary (![Leave Summary](https://github.com/user-attachments/assets/c798ccc5-7814-4a0e-ae09-4012ebde0a3a)
 
 * **Purpose**: Displays summary of user’s leave.
 * **Elements**:
@@ -36,8 +34,7 @@
 
 ---
 
-### 4. **Success Screen (![Success Screen](https://github.com/user-attachments/assets/b65e3402-396a-440f-837b-0d015d2c137c)
-)**
+### 4. Success Screen (![Success Screen](https://github.com/user-attachments/assets/b65e3402-396a-440f-837b-0d015d2c137c)
 
 * **Purpose**: Confirmation after successfully submitting a request.
 * **Elements**:
@@ -52,8 +49,7 @@
 
 ---
 
-### 5. **Power Automate (![Power Automate](https://github.com/user-attachments/assets/5afa589d-2f89-49f7-93eb-2aeaf58d5c1e)
-)**
+### 5. Power Automate (![Power Automate](https://github.com/user-attachments/assets/5afa589d-2f89-49f7-93eb-2aeaf58d5c1e)
 
 * **Purpose**: Underlying automation logic.
 * **Elements**:
@@ -64,7 +60,7 @@
 
 ---
 
-### 6. **SharePoint (![Sharepoint](https://github.com/user-attachments/assets/a1295838-3d67-4e7f-b21b-5e9d71cc9e5e))**
+### 6. SharePoint (![Sharepoint](https://github.com/user-attachments/assets/a1295838-3d67-4e7f-b21b-5e9d71cc9e5e)
 
 
 * **Purpose**: Data storage repository.
